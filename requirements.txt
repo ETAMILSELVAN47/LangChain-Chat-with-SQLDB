@@ -1,0 +1,8 @@
+ipykernel
+numpy
+pandas
+streamlit
+langchain
+mysql-connector-python
+SQLAlchemy
+langchain-groq
